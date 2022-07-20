@@ -1,0 +1,73 @@
+/* import google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster&family=Pacifico&family=Poppins:wght@500&display=swap');
+    /*---------------
+    common Properties start
+    -----------------*/
+body{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    width: 1320px;
+}
+/*-----------------------------
+    common Properties start
+    ---------------------------*/
+
+/* ---------------
+       header start
+---------------- */
+.banner{
+    display: grid;
+    height: 646px;
+    background-color: black;
+    border-radius: 30px;
+    color: white;
+    grid-template-columns: 530px 581px;
+    justify-content: space-around;
+}
+.banner .heading{
+    display: grid;
+    direction: column;
+}
+.banner .heading h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+}
+.banner .heading p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.banner .heading .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    height: 56px;
+    width: 187px;
+    background-color: red;
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+.banner .heading .button a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.banner .image{
+
+}
+.banner .image img{
+    height: 613px;
+    position: relative;
+    top: 33px;
+}
+
+/* ---------------
+    header end
+---------------- */
