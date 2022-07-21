@@ -29,6 +29,15 @@ main{
     box-shadow: 3px 3px 5px black;
 
 }
+.button a{
+    text-decoration: none;
+    color: #161616;
+}
+.buttonac{
+    background-image: linear-gradient(to right, rgb(0, 6, 72), rgb(0, 6, 72));
+    box-shadow: 3px 3px 5px black;
+    color: aliceblue;
+}
 /*-----------------------------
     common Properties end
     ---------------------------*/

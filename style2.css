@@ -1,0 +1,23 @@
+.mach{
+    display: grid;
+    grid-template-rows: 56%, 40%;
+}
+.mach .flags{
+    display: flex;
+    flex-direction: row;
+
+}
+.mach .details{
+    display: flex;
+    flex-direction: column;
+}
+.mach .details h2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.mach .details p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
