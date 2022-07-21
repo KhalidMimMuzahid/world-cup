@@ -9,7 +9,14 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
+    padding-top: 3%;
 
+}
+.mach .flags .flag{
+
+}
+.mach .flags .flag img{
+    width: 100%;
 }
 .mach .details{
     display: flex;
