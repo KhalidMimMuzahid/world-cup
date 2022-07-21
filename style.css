@@ -31,7 +31,11 @@ main{
 }
 .button a{
     text-decoration: none;
-    color: #161616;
+    color: #ffffff;
+}
+.buttonac a{
+    text-decoration: none;
+    color: #ffffff;
 }
 .buttonac{
     background-image: linear-gradient(to right, rgb(0, 6, 72), rgb(0, 6, 72));
